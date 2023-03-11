@@ -1,0 +1,165 @@
+.Nossa-Missão{
+    background-image:url(img/backgroud.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cabeçalho > h1{
+    font-size: 4vw;
+}
+.cabeçalho{
+    color: #2E4E9D;
+    display: flex;
+    justify-content: center;
+}
+
+/* ---------------//--------------- */
+
+.Nossa-Missão{
+    display: flex;
+    justify-content: center;
+}
+
+
+.im1{
+    /* height: 168px; */
+    max-width: 500px;
+}
+.nm-imagem-1{
+    /* height: 168px; */
+    max-width: 500px;
+    border: 1px solid white;
+}
+
+.im2{
+    /* height: 168px; */
+    max-width: 500px;
+}
+.nm-imagem-2{
+    /* height: 168px; */
+    max-width: 500px;
+    border: 1px solid white;
+}
+
+.im3{
+    /* max-height: 168px; */
+    max-width: 500px;
+}
+.nm-imagem-3{
+    /* height: 168px; */
+    max-width: 500px;
+    border: 1px solid white;
+}
+
+.im4{
+    /* height: 168px; */
+    max-width: 500px;
+}
+.nm-imagem-4{
+    /* height: 168px; */
+    max-width: 500px;
+    border: 1px solid white;
+}  
+
+/* ---------------//------------------------------//--------------- */
+
+.Novo-Paciente{
+    background-image:url(img/image\ testimonials.jpg);
+    /* overflow-x: hidden; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+}
+
+.NP-cabeçalho{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+}
+
+.NP-paragrafo{
+    color: #fff;
+    display: flex;
+    font-size: 2vw;
+    justify-content: center;
+    text-align: center;
+}
+
+/* ---------------//--------------- */
+
+.upicon{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.boticon{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+    
+.icon1{
+    display: flex;
+    border: 15px solid rgba(255, 0, 0, 0);
+    z-index: 10;
+}
+.icon1 :hover{
+    display: flex;
+    background-image: url(img/Group\ 1.png); 
+    justify-content: center;
+    z-index: 100;
+}
+
+.icon2{
+    display: flex;
+    border: 15px solid rgba(255, 0, 0, 0);
+}
+.icon2 :hover{
+    display: flex;
+    background-image: url(img/Group\ 2.png);
+    justify-content: center;
+}
+
+.icon3{
+    display: flex;
+    border: 15px solid rgba(255, 0, 0, 0);
+}
+.icon3 :hover{
+    display: flex;
+    background-image: url(img/Group\ 3.png);
+    justify-content: center;
+}
+
+.icon4{
+    display: flex;
+    border: 15px solid rgba(255, 0, 0, 0);
+}
+.icon4 :hover{
+    display: flex;
+    background-image: url(img/Group\ 4.png);
+    justify-content: center;
+}
+
+.icon5{
+    display: flex;
+    border: 15px solid rgba(255, 0, 0, 0);
+}
+.icon5 :hover{
+    display: flex;
+    background-image: url(img/Group\ 5.png);
+    justify-content: center;
+}
+
+.icon6{
+    display: flex;
+    border: 15px solid rgba(255, 0, 0, 0);
+}
+.icon6 :hover{
+    display: flex;
+    background-image: url(img/Group\ 6.png);
+    justify-content: center;
+}
